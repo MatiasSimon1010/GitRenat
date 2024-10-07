@@ -43,7 +43,7 @@
         }
 
         function mostrarTriste() {
-            document.getElementById('resultado').innerHTML = "😢 asi sos, que no te cruce en her";
+            document.getElementById('resultado').innerHTML = "😢 perfecto, sos peronista";
             document.getElementById('resultado').className = 'triste';
         }
     </script>
